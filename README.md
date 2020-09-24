@@ -10,7 +10,6 @@
 - ✨ Low level Code & Hacks
 - ✨ Reverse Engineering
 - ✨ FGPAs, Microcontrollers and stuff (embedded systems)
-- ✨ Hardware Hacking
 - ✨ RFs Systems & SDRs 
 - ✨ Machine Learning
 - ✨ Computer Vision
