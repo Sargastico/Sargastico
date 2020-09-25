@@ -24,7 +24,7 @@
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=GO)
-![Assembly](https://img.shields.io/badge/-Assembly-black?style=flat-square&logo=ASM)
+![Assembly](https://img.shields.io/badge/-Assembly-black?style=flat-square&logo=assembly)
 
 
 
