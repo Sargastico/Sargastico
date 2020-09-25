@@ -1,4 +1,4 @@
-# SARGASTICO 👋
+# Hi! I'm Sargastico 👋
 
 <img align="" height='137px' src="https://github-readme-stats.vercel.app/api?username=Sargastico&show_icons=true&theme=tokyonight&include_all_commits=true&line_height=21" /><!-- wi*quL3fcV --><img align="" height='137px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sargastico&hide_title=true&layout=compact&theme=tokyonight" />
 
@@ -19,6 +19,13 @@
 - ✨ Machine Learning
 - ✨ Computer Vision
 
+### - CURRENT STUDIES :books: :
+
+- Kotlin
+- Defect Inspection with OpenCV
+- Windows Internals
+- RF Digital Phase Modulation
+
 ### - TECH STACK ⚡ :
 
 Langs:
@@ -33,7 +40,7 @@ Langs:
 Toolkit:
 
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
-![Linux](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=Windows)
+![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=Windows)
 ![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=Google-Cloud)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
