@@ -50,7 +50,7 @@ Toolkit:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Fernando_Menardi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-c-menardi-39b649195/)](https://www.linkedin.com/in/fernando-c-menardi-39b649195/)
 [![Medium Badge](https://img.shields.io/badge/-@Sargastico_0x90-black?style=flat-square&logo=Medium&link=https://medium.com/@Sargastico_0x90/)](https://medium.com/@Sargastico_0x90)
-[![Twitter Badge](https://img.shields.io/badge/-@sargx90-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=@sargx90 "Follow on Twitter")
+[![Twitter Badge](https://img.shields.io/badge/-@sargx90-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=sargx90 "Follow on Twitter")
 
 
 
