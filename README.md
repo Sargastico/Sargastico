@@ -8,6 +8,7 @@
 
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Sargastico/Sargastico/blob/master/assets/2970.gif">
+<p style="text-align:right;">Always 'junior' because I'm always learning.</p>
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Sargastico/Sargastico/blob/master/assets/tumblr_n0t7teqLIg1sg1fh4o1_500.gif">
 
 ### - INTERESTS 🚀 :
