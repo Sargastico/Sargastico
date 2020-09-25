@@ -7,7 +7,7 @@
 ### - I'm 21 years old. Engineering student from Brazil. Self-teaching Computer Science & Infosec.
 
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Sargastico/Sargastico/blob/master/assets/a8be3c8048bfbe6708f3437754a62328.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Sargastico/Sargastico/blob/master/assets/2970.gif">
 
 ### - Interests :
 - ✨ Low level Code & Hacks
@@ -17,7 +17,7 @@
 - ✨ Machine Learning
 - ✨ Computer Vision
 
-
+### - Interests :
 
 
 
