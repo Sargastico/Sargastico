@@ -34,7 +34,7 @@ Toolkit:
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
 ![Linux](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=Windows)
 ![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=Google-Cloud)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=AWS)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-Web)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino)
