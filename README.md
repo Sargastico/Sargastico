@@ -46,8 +46,7 @@ Toolkit:
 ![Proteus](https://img.shields.io/badge/-Proteus-black?style=flat-square&logo=Proteus)
 ![Quartus II](https://img.shields.io/badge/-Quartus-black?style=flat-square&logo=Quartus)
 
-Contact:
-
+### - CONTACT :
 
 [![Linkedin Badge](https://img.shields.io/badge/-FernandoM-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-c-menardi-39b649195/)](https://www.linkedin.com/in/fernando-c-menardi-39b649195/)
 [![Medium Badge](https://img.shields.io/badge/-@Sargastico_0x90-black?style=flat-square&logo=Medium&link=https://medium.com/@Sargastico_0x90/)](https://medium.com/@Sargastico_0x90)
