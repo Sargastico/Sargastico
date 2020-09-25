@@ -21,9 +21,9 @@
 ### - TECH STACK :
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Golang](https://img.shields.io/badge/-Golang-070ff5?style=flat-square&logo=Golang)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
+![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
+![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=GO)
 
 
 
