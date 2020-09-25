@@ -9,7 +9,7 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Sargastico/Sargastico/blob/master/assets/2970.gif">
 
-### - Interests :
+### - Interests 🚀 :
 
 - ✨ Low level Code & Hacks
 - ✨ Reverse Engineering
@@ -18,7 +18,7 @@
 - ✨ Machine Learning
 - ✨ Computer Vision
 
-### - TECH STACK :
+### - TECH STACK ⚡ :
 
 Langs:
 
@@ -27,7 +27,7 @@ Langs:
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=GO)
 ![Assembly](https://img.shields.io/badge/-Assembly-black?style=flat-square&logo=assembly)
-![Matlab](https://img.shields.io/badge/-Matlab-black?style=flat-square&logo=Matlab)
+![Matlab](https://img.shields.io/badge/-Matlab-black?style=flat-square&logo=Mathworks)
 
 Toolkit:
 
