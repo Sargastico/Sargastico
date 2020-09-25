@@ -10,6 +10,7 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Sargastico/Sargastico/blob/master/assets/2970.gif">
 
 ### - Interests :
+
 - ✨ Low level Code & Hacks
 - ✨ Reverse Engineering
 - ✨ FGPAs, Microcontrollers and stuff (embedded systems)
@@ -17,8 +18,11 @@
 - ✨ Machine Learning
 - ✨ Computer Vision
 
-### - Interests :
+### - TECH STACK :
 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 
 
 
