@@ -2,7 +2,7 @@
 
 <img align="" height='137px' src="https://github-readme-stats.vercel.app/api?username=Sargastico&show_icons=true&theme=tokyonight&include_all_commits=true&line_height=21" /><!-- wi*quL3fcV --><img align="" height='137px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sargastico&hide_title=true&layout=compact&theme=tokyonight" />
 
-# About Me 💬 :
+# About Me 👨‍💻 :
 
 ### - I'm 21 years old. Engineering student from Brazil. Self-teaching Computer Science & Infosec.
 
@@ -46,7 +46,7 @@ Toolkit:
 ![Proteus](https://img.shields.io/badge/-Proteus-black?style=flat-square&logo=Proteus)
 ![Quartus II](https://img.shields.io/badge/-Quartus-black?style=flat-square&logo=Quartus)
 
-### - CONTACT :
+### - CONTACT 💬 :
 
 [![Linkedin Badge](https://img.shields.io/badge/-Fernando_Menardi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-c-menardi-39b649195/)](https://www.linkedin.com/in/fernando-c-menardi-39b649195/)
 [![Medium Badge](https://img.shields.io/badge/-@Sargastico_0x90-black?style=flat-square&logo=Medium&link=https://medium.com/@Sargastico_0x90/)](https://medium.com/@Sargastico_0x90)
