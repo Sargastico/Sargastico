@@ -31,9 +31,13 @@ Langs:
 
 Toolkit:
 
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+![Linux](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=Windows)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=OpenCV)
+![Proteus](https://img.shields.io/badge/-Proteus-black?style=flat-square&logo=Proteus)
+![Quartus II](https://img.shields.io/badge/-Quartus-black?style=flat-square&logo=Quartus)
 
 
 
