@@ -36,6 +36,7 @@ Toolkit:
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino)
+![Raspberry-Pi](https://img.shields.io/badge/-RaspberryPi-black?style=flat-square&logo=Raspberry-Pi)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=OpenCV)
 ![Proteus](https://img.shields.io/badge/-Proteus-black?style=flat-square&logo=Proteus)
 ![Quartus II](https://img.shields.io/badge/-Quartus-black?style=flat-square&logo=Quartus)
