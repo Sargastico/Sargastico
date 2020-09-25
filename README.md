@@ -34,16 +34,24 @@ Toolkit:
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
 ![Linux](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=Windows)
 ![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=Google-Cloud)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-Web-Services)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino)
 ![Raspberry-Pi](https://img.shields.io/badge/-RaspberryPi-black?style=flat-square&logo=Raspberry-Pi)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-black?style=flat-square&logo=elasticsearch)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=OpenCV)
 ![Proteus](https://img.shields.io/badge/-Proteus-black?style=flat-square&logo=Proteus)
 ![Quartus II](https://img.shields.io/badge/-Quartus-black?style=flat-square&logo=Quartus)
 
+Contact:
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-FernandoM-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-c-menardi-39b649195/)](https://www.linkedin.com/in/fernando-c-menardi-39b649195/)
+[![Medium Badge](https://img.shields.io/badge/-@Sargastico_0x90-black?style=flat-square&logo=Medium&link=https://medium.com/@Sargastico_0x90/)](https://medium.com/@Sargastico_0x90)
+[![Hotmail Badge](https://img.shields.io/badge/-fernandocaro54@hotmail.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:fernandocaro54@hotmail.com)](mailto:fernandocaro54@hotmail.com)
 
 
 
