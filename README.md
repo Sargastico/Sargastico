@@ -27,6 +27,8 @@
 ![Assembly](https://img.shields.io/badge/-Assembly-black?style=flat-square&logo=assembly)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+![Matlab](https://img.shields.io/badge/-Matlab-black?style=flat-square&logo=Matlab)
+
 
 
 
