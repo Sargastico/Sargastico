@@ -8,13 +8,14 @@
 
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Sargastico/Sargastico/blob/master/assets/2970.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Sargastico/Sargastico/blob/master/assets/tumblr_n0t7teqLIg1sg1fh4o1_500.gif">
 
 ### - INTERESTS 🚀 :
 
 - ✨ Low level Code & Hacks
 - ✨ Reverse Engineering
 - ✨ Embedded Systems
-- ✨ RFs Systems & SDRs 
+- ✨ RFs & SDRs 
 - ✨ Machine Learning
 - ✨ Computer Vision
 
