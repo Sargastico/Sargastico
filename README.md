@@ -25,6 +25,7 @@
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=GO)
 ![Assembly](https://img.shields.io/badge/-Assembly-black?style=flat-square&logo=assembly)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
 
 
 
