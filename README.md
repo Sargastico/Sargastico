@@ -24,7 +24,7 @@
 - Kotlin
 - Defect Inspection with OpenCV
 - Windows Internals
-- RF Digital Phase Modulation
+- RF Modulation
 
 ### - TECH STACK ⚡ :
 
