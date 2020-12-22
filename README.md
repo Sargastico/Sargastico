@@ -53,6 +53,8 @@ Toolkit:
 ![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=OpenCV)
 ![Proteus](https://img.shields.io/badge/-Proteus-black?style=flat-square&logo=Proteus)
 ![Quartus II](https://img.shields.io/badge/-Quartus-black?style=flat-square&logo=Quartus)
+![Vitess](https://img.shields.io/badge/-Vitess-black?style=flat-square&logo=Vitess)
+
 
 ### - CONTACT 💬 :
 
