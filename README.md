@@ -52,9 +52,9 @@ Toolkit:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=OpenCV)
 ![Proteus](https://img.shields.io/badge/-Proteus-black?style=flat-square&logo=Proteus)
+![KiCAD](https://img.shields.io/badge/-KiCAD-black?style=flat-square&logo=KiCAD)
 ![Hasura](https://img.shields.io/badge/-Hasura-black?style=flat-square&logo=Hasura)
 ![Graphql](https://img.shields.io/badge/-Graphql-black?style=flat-square&logo=Graphql)
-
 ![Vitess](https://img.shields.io/badge/-Vitess-black?style=flat-square&logo=Vitess)
 
 
