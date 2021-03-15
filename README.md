@@ -33,7 +33,6 @@ Langs:
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=GO)
-![Assembly](https://img.shields.io/badge/-Assembly-black?style=flat-square&logo=assembly)
 ![Matlab](https://img.shields.io/badge/-Matlab-black?style=flat-square&logo=Mathworks)
 ![Verilog](https://img.shields.io/badge/-Verilog-black?style=flat-square&logo=Verilog)
 
@@ -45,6 +44,7 @@ Toolkit:
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=Kafka)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino)
 ![Raspberry-Pi](https://img.shields.io/badge/-RaspberryPi-black?style=flat-square&logo=Raspberry-Pi)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-black?style=flat-square&logo=elasticsearch)
@@ -52,7 +52,10 @@ Toolkit:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=OpenCV)
 ![Proteus](https://img.shields.io/badge/-Proteus-black?style=flat-square&logo=Proteus)
-![Quartus II](https://img.shields.io/badge/-Quartus-black?style=flat-square&logo=Quartus)
+![Quartus II](https://img.shields.io/badge/-Quartus-II-black?style=flat-square&logo=Quartus-II)
+![Hasura](https://img.shields.io/badge/-Hasura-black?style=flat-square&logo=Hasura)
+![Graphql](https://img.shields.io/badge/-Graphql-black?style=flat-square&logo=Graphql)
+
 ![Vitess](https://img.shields.io/badge/-Vitess-black?style=flat-square&logo=Vitess)
 
 
