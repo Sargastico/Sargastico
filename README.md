@@ -35,7 +35,7 @@ Langs:
 ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=GO)
 ![Assembly](https://img.shields.io/badge/-Assembly-black?style=flat-square&logo=assembly)
 ![Matlab](https://img.shields.io/badge/-Matlab-black?style=flat-square&logo=Mathworks)
-![Verilog](https://img.shields.io/badge/-Matlab-black?style=flat-square&logo=Verilog)
+![Verilog](https://img.shields.io/badge/-Verilog-black?style=flat-square&logo=Verilog)
 
 Toolkit:
 
