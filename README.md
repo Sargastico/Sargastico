@@ -44,7 +44,7 @@ Toolkit:
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
-![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=Kafka)
+![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=Apache-Kafka)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino)
 ![Raspberry-Pi](https://img.shields.io/badge/-RaspberryPi-black?style=flat-square&logo=Raspberry-Pi)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-black?style=flat-square&logo=elasticsearch)
