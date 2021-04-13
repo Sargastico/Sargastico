@@ -1,6 +1,6 @@
 # Hi! I'm Sargastico 👋
 
-<img align="" height='137px' src="https://github-readme-stats.vercel.app/api?username=Sargastico&show_icons=true&theme=tokyonight&include_all_commits=true&line_height=21" /><!-- wi*quL3fcV --><img align="" height='137px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sargastico&hide_title=true&layout=compact&theme=tokyonight" />
+<img align="" height='137px' src="https://github-readme-stats.vercel.app/api?username=Sargastico&show_icons=true&theme=tokyonight&include_all_commits=true&line_height=21" /><!-- wi*quL3fcV --><img align="" height='137px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=&hide_title=true&layout=compact&theme=tokyonight" />
 
 # About Me 👨‍💻 :
 
