@@ -50,11 +50,12 @@ Toolkit:
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-black?style=flat-square&logo=elasticsearch)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Graphql](https://img.shields.io/badge/-Graphql-black?style=flat-square&logo=Graphql)
+![Hasura](https://img.shields.io/badge/-Hasura-black?style=flat-square&logo=Hasura)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=OpenCV)
+![Keycloak](https://img.shields.io/badge/-Keycloak-black?style=flat-square&logo=Keycloak)
 ![Proteus](https://img.shields.io/badge/-Proteus-black?style=flat-square&logo=Proteus)
 ![KiCAD](https://img.shields.io/badge/-KiCAD-black?style=flat-square&logo=KiCAD)
-![Hasura](https://img.shields.io/badge/-Hasura-black?style=flat-square&logo=Hasura)
-![Graphql](https://img.shields.io/badge/-Graphql-black?style=flat-square&logo=Graphql)
 ![Vitess](https://img.shields.io/badge/-Vitess-black?style=flat-square&logo=Vitess)
 
 
