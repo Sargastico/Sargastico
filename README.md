@@ -25,6 +25,8 @@
 - Defect Inspection with OpenCV
 - ARM (bare metal MCU & ASM)
 - Windows Internals
+- Linux LKM Development
+- Windows Driver Development
 - RF Modulation
 - Control Theory
 
