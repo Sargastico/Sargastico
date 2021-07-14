@@ -4,7 +4,7 @@
 
 # About Me 👨‍💻 :
 
-### I'm 21 years old. Engineering student from Brazil. Self-teaching Computer Science & Infosec.
+### I'm 22 years old. Engineering student from Brazil. Self-teaching: Computer Science & Infosec & Hardware Hacking.
 
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Sargastico/Sargastico/blob/master/assets/2970.gif">
@@ -13,6 +13,7 @@
 ### - INTERESTS 🚀 :
 
 - ✨ Low level Code & Hacks
+- ✨ Bare Metal Development
 - ✨ Reverse Engineering
 - ✨ Embedded Systems
 - ✨ RFs & SDRs 
@@ -22,8 +23,10 @@
 ### - CURRENT STUDIES :books: :
 
 - Defect Inspection with OpenCV
+- ARM (bare metal MCU & ASM)
 - Windows Internals
 - RF Modulation
+- Control Theory
 
 ### - TECH STACK ⚡ :
 
