@@ -33,7 +33,8 @@
 Langs:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C/C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
+![](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
+![](https://img.shields.io/badge/-C++-black?style=flat-square&logo=Cplusplus)
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=GO)
 ![Matlab](https://img.shields.io/badge/-Matlab-black?style=flat-square&logo=Mathworks)
