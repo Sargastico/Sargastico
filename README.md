@@ -68,6 +68,7 @@ Toolkit:
 
 [![Medium Badge](https://img.shields.io/badge/-@Sargastico_0x90-black?style=flat-square&logo=Medium&link=https://medium.com/@Sargastico_0x90/)](https://medium.com/@Sargastico_0x90)
 [![Twitter Badge](https://img.shields.io/badge/-@sargx90-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=sargx90 "Follow on Twitter")
+[![Notion Badge](https://img.shields.io/badge/-SARGX'S%20NOT3S-black?style=flat-square&logo=Notion)](https://lofty-windscreen-3e7.notion.site/SARGX-S-N0T3S-a1f2bba8b6ec4a26ad5ed504861c97a8)
 
 
 
