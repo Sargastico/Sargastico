@@ -22,9 +22,8 @@
 
 ### - CURRENT STUDIES :books: :
 
-- Defect Inspection with OpenCV
-- ARM (bare metal MCU & ASM)
-- Windows Internals
+- OpenCV
+- ARM (MCU & ASM)
 - Linux LKM Development
 - Windows Driver Development
 - RF Modulation
