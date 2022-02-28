@@ -50,17 +50,18 @@ Toolkit:
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=Apache-Kafka)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino)
-![Raspberry-Pi](https://img.shields.io/badge/-RaspberryPi-black?style=flat-square&logo=Raspberry-Pi)
+![Raspberry-Pi](https://img.shields.io/badge/-Raspberry-black?style=flat-square&logo=Raspberry-Pi)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-black?style=flat-square&logo=elasticsearch)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Graphql](https://img.shields.io/badge/-Graphql-black?style=flat-square&logo=Graphql)
 ![Hasura](https://img.shields.io/badge/-Hasura-black?style=flat-square&logo=Hasura)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=OpenCV)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=Keras)
 ![Keycloak](https://img.shields.io/badge/-Keycloak-black?style=flat-square&logo=Keycloak)
-![Proteus](https://img.shields.io/badge/-Proteus-black?style=flat-square&logo=Proteus)
-![KiCAD](https://img.shields.io/badge/-KiCAD-black?style=flat-square&logo=KiCAD)
 ![Vitess](https://img.shields.io/badge/-Vitess-black?style=flat-square&logo=Vitess)
+
 
 
 ### - CONTACT 💬 :
