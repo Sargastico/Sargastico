@@ -4,7 +4,7 @@
 
 # About Me 👨‍💻 :
 
-### I'm 22 years old. Engineering student from Brazil. Self-teaching: Computer Science & Infosec & Hardware Hacking.
+### Engineering student from Brazil. Self-teaching: Computer Science & Infosec & Hardware Hacking.
 
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Sargastico/Sargastico/blob/master/assets/2970.gif">
