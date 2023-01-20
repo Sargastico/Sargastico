@@ -1,6 +1,6 @@
 # Hi! I'm Sargastico 👋
 
-<img align="" height='137px' src="https://github-readme-stats.vercel.app/api?username=Sargastico&show_icons=true&theme=tokyonight&include_all_commits=true&line_height=21" /><!-- wi*quL3fcV --><img align="" height='137px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sargastico&hide_title=true&layout=compact&theme=tokyonight" />
+<img align="" height='137px' src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sargastico&show_icons=true&theme=tokyonight&include_all_commits=true&line_height=21" /><!-- wi*quL3fcV --><img align="" height='137px' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sargastico&hide_title=true&layout=compact&theme=tokyonight" />
 
 # About Me 👨‍💻 :
 
@@ -13,21 +13,18 @@
 ### - INTERESTS 🚀 :
 
 - ✨ Low level Code & Hacks
-- ✨ Bare Metal Development
 - ✨ Reverse Engineering
 - ✨ Embedded Systems
 - ✨ RFs & SDRs 
 - ✨ Machine Learning
-- ✨ Computer Vision
+- ✨ Distributed Systems
 
 ### - CURRENT STUDIES :books: :
 
-- OpenCV
 - ARM (MCU & ASM)
-- Linux LKM Development
-- Windows Driver Development
+- Hypervisors
+- Kernel Xpl Wonderland
 - RF Modulation
-- Control Theory
 
 ### - TECH STACK ⚡ :
 
@@ -39,6 +36,8 @@ Langs:
 ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=GO)
 ![Matlab](https://img.shields.io/badge/-Matlab-black?style=flat-square&logo=Mathworks)
 ![Verilog](https://img.shields.io/badge/-Verilog-black?style=flat-square&logo=Verilog)
+![ARM](https://img.shields.io/badge/asm-black?style=flat-square&logo=ARM)
+![INTEL](https://img.shields.io/badge/asm-black?style=flat-square&logo=INTEL)
 
 Toolkit:
 
@@ -49,8 +48,6 @@ Toolkit:
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=Apache-Kafka)
-![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino)
-![Raspberry-Pi](https://img.shields.io/badge/-Raspberry-black?style=flat-square&logo=Raspberry-Pi)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-black?style=flat-square&logo=elasticsearch)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
