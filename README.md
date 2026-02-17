@@ -30,11 +30,8 @@
 
 Langs:
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C/C++](https://img.shields.io/badge/-C/C++-black?style=flat-square&logo=Cplusplus)
-![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=GO)
-![Matlab](https://img.shields.io/badge/-Matlab-black?style=flat-square&logo=Mathworks)
 ![Verilog](https://img.shields.io/badge/-Verilog-black?style=flat-square&logo=Verilog)
 ![ARM](https://img.shields.io/badge/asm-black?style=flat-square&logo=ARM)
 ![INTEL](https://img.shields.io/badge/asm-black?style=flat-square&logo=INTEL)
