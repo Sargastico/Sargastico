@@ -36,33 +36,6 @@ Langs:
 ![ARM](https://img.shields.io/badge/asm-black?style=flat-square&logo=ARM)
 ![INTEL](https://img.shields.io/badge/asm-black?style=flat-square&logo=INTEL)
 
-Toolkit:
-
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
-![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=Windows)
-![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=Google-Cloud)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
-![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=Apache-Kafka)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-black?style=flat-square&logo=elasticsearch)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Graphql](https://img.shields.io/badge/-Graphql-black?style=flat-square&logo=Graphql)
-![Hasura](https://img.shields.io/badge/-Hasura-black?style=flat-square&logo=Hasura)
-![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=OpenCV)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=Keras)
-![Keycloak](https://img.shields.io/badge/-Keycloak-black?style=flat-square&logo=Keycloak)
-![Vitess](https://img.shields.io/badge/-Vitess-black?style=flat-square&logo=Vitess)
-
-
-
-### - CONTACT 💬 :
-
-[![Medium Badge](https://img.shields.io/badge/-@Sargastico_0x90-black?style=flat-square&logo=Medium&link=https://medium.com/@Sargastico_0x90/)](https://medium.com/@Sargastico_0x90)
-[![Twitter Badge](https://img.shields.io/badge/-@sargx90-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=sargx90 "Follow on Twitter")
-[![Notion Badge](https://img.shields.io/badge/-SARGX'S%20NOT3S-black?style=flat-square&logo=Notion)](https://lofty-windscreen-3e7.notion.site/SARGX-S-N0T3S-a1f2bba8b6ec4a26ad5ed504861c97a8)
 
 
 
